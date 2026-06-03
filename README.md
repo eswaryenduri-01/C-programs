@@ -1,10 +1,10 @@
-# C Programming and Data Structures
+# C Programs
 
-A collection of C programs covering fundamental programming concepts, arrays, strings, pointers, structures, recursion, searching, sorting algorithms, and data structures.
+A collection of C programming programs created for learning and practicing fundamental programming concepts.
 
 ## Topics Covered
 
-### Basic C Programs
+### Basic Programs
 - Hello World
 - Arithmetic Operations
 - Logical Operators
@@ -22,16 +22,17 @@ A collection of C programs covering fundamental programming concepts, arrays, st
 
 ### Arrays
 - 1-D Array Operations
-- 2-D Array Operations
+- Array Searching
+- Largest Element in Array
+- Smallest Element in Array
+- Sum of Elements in Array
+
+### Matrix Operations
 - Matrix Addition
 - Matrix Subtraction
 - Matrix Multiplication
 - Matrix Transpose
 - Matrix Trace
-- Largest Element in Array
-- Smallest Element in Array
-- Sum of Elements in Array
-- Array Searching
 
 ### Strings
 - String Handling Functions
@@ -42,54 +43,21 @@ A collection of C programs covering fundamental programming concepts, arrays, st
 - Functions with Arguments and Return Values
 - Functions without Arguments and Return Values
 - Factorial Using Recursion
-- Sum of N Numbers Using Recursion
+- Sum of Numbers Using Recursion
 
 ### Pointers
-- Basic Pointers
+- Pointer Basics
 - Double Pointers
-- Pointer Operations
 - Swapping Numbers Using Pointers
 
-### Structures and Unions
-- Student Structure
-- Array of Structures
-- Nested Structures
-- Structure as Parameter
-- Structure and Functions
-- Structure and Pointer
-- Self Referencing Structure
-- Union
-- Enum
-- Typedef Structure
-
-### Searching and Sorting
-- Linear Search
-- Bubble Sort
-- Merge Sort
-- Quick Sort
-- Radix Sort
-
-### Data Structures
-- Singly Linked List
-- Doubly Linked List
-- Circular Linked List
-- Stack Using Array
-- Stack Using Linked List
-- Queue Using Array
-- Queue Using Linked List
-- Circular Queue
-- Self Referencing Structures
 
 ## Language Used
 - C Programming
 
-## Tools
-- GCC Compiler
-- Code::Blocks / VS Code / Dev-C++
-
 ## Purpose
-This repository was created to practice and implement fundamental concepts of C Programming and Data Structures.
+This repository contains C programming examples developed for academic learning, practice, and understanding fundamental programming concepts.
 
 ## Author
 **Eswaryenduri**
+
 
